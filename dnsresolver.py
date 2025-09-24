@@ -152,7 +152,6 @@ def main():
     resolver_obj = dns.resolver.Resolver()
     resolver_obj.timeout = args.dns_timeout
     resolver_obj.lifetime = args.dns_lifetime
-    # FORÇA nameservers públicos confiáveis para reduzir latência inicial causada por DNS local ruim
     resolver_obj.nameservers = ['1.1.1.1', '8.8.8.8']
 
     ip_wildcard = None
