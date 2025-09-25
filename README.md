@@ -1,3 +1,5 @@
+<img width="845" height="161" alt="image" src="https://github.com/user-attachments/assets/6e6c3804-c17a-43fe-830b-f64627294a37" />
+
 # 🔍 Dns Resolver
 
 A fast and efficient subdomain and HTTP/HTTPS scanner designed to help CTI teams or pentesters identify active subdomains and validate web services.
