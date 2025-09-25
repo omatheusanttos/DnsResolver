@@ -9,14 +9,26 @@ import socket
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 
+title = """
+$$$$$$$\                      $$$$$$$\                                $$\                                
+$$  __$$\                     $$  __$$\                               $$ |                               
+$$ |  $$ |$$$$$$$\   $$$$$$$\ $$ |  $$ | $$$$$$\   $$$$$$$\  $$$$$$\  $$ |$$\    $$\  $$$$$$\   $$$$$$\  
+$$ |  $$ |$$  __$$\ $$  _____|$$$$$$$  |$$  __$$\ $$  _____|$$  __$$\ $$ |\$$\  $$  |$$  __$$\ $$  __$$\ 
+$$ |  $$ |$$ |  $$ |\$$$$$$\  $$  __$$< $$$$$$$$ |\$$$$$$\  $$ /  $$ |$$ | \$$\$$  / $$$$$$$$ |$$ |  \__|
+$$ |  $$ |$$ |  $$ | \____$$\ $$ |  $$ |$$   ____| \____$$\ $$ |  $$ |$$ |  \$$$  /  $$   ____|$$ |      
+$$$$$$$  |$$ |  $$ |$$$$$$$  |$$ |  $$ |\$$$$$$$\ $$$$$$$  |\$$$$$$  |$$ |   \$  /   \$$$$$$$\ $$ |      
+\_______/ \__|  \__|\_______/ \__|  \__| \_______|\_______/  \______/ \__|    \_/     \_______|\__|
+
+"""
+
 # --- Configurações ajustáveis ---
-DEFAULT_DNS_TIMEOUT = 1.0   # seconds por tentativa de DNS (reduzido)       
+DEFAULT_DNS_TIMEOUT = 1.0   # seconds por tentativa de DNS (reduzido)
 DEFAULT_DNS_LIFETIME = 2.0  # tempo total permitido por query (reduzido)
 DEFAULT_MAX_WORKERS = 50
 DEFAULT_HTTP_WORKERS = 20
 HTTP_TIMEOUT = 10
 
-def buscar_subdominio(subdominio_completo, resolver_obj=None, tipos_registro=None, dns_cache=None): 
+def buscar_subdominio(subdominio_completo, resolver_obj=None, tipos_registro=None, dns_cache=None):
     if dns_cache is None:
         dns_cache = {}
     if subdominio_completo in dns_cache:
@@ -42,11 +54,15 @@ def buscar_subdominio(subdominio_completo, resolver_obj=None, tipos_registro=Non
                 dns_cache[subdominio_completo] = resultado
                 return resultado
         except (dns.resolver.NoAnswer, dns.resolver.NXDOMAIN, dns.resolver.NoNameservers):
+            # sem resposta para esse tipo — tenta o próximo
             pass
         except dns.exception.Timeout:
+            # timeout: rejeita rápido e tenta o próximo tipo
             pass
         except Exception:
+            # erros inesperados não param tudo
             pass
+
     dns_cache[subdominio_completo] = (None, None, None)
     return None, None, None
 
@@ -57,6 +73,7 @@ def is_wildcard(dominio, ip_wildcard, resolver_obj=None):
             resolver_obj.timeout = DEFAULT_DNS_TIMEOUT
             resolver_obj.lifetime = DEFAULT_DNS_LIFETIME
             resolver_obj.nameservers = ['1.1.1.1', '8.8.8.8']
+
         answers = resolver_obj.resolve(f"naoexiste.{dominio}", "A", lifetime=DEFAULT_DNS_LIFETIME)
         if answers and answers[0].to_text() == ip_wildcard:
             return True
@@ -115,6 +132,7 @@ def verificar_http(endereco_dns, ip_from_dns=None, session=None, timeout_http=HT
     return resultados
 
 def main():
+    print(title)
     parser = argparse.ArgumentParser(description='Escaneador de Subdomínio (ajustado para latência inicial)')
     parser.add_argument('-d', '--dominio', required=True, help='O domínio que será escaneado.')
     parser.add_argument('-w', '--wordlist', required=True, help='O caminho para a wordlist.')
@@ -152,6 +170,7 @@ def main():
     resolver_obj = dns.resolver.Resolver()
     resolver_obj.timeout = args.dns_timeout
     resolver_obj.lifetime = args.dns_lifetime
+    # FORÇA nameservers públicos confiáveis para reduzir latência inicial causada por DNS local ruim
     resolver_obj.nameservers = ['1.1.1.1', '8.8.8.8']
 
     ip_wildcard = None
