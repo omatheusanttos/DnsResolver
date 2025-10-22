@@ -1,0 +1,170 @@
+[
+  {
+    "host": "pm03-1.allin.overcome.com.br",
+    "a": [
+      "179.109.228.144"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "grupovip.overcome.com.br",
+    "a": [
+      "172.64.153.235",
+      "104.18.34.21"
+    ],
+    "aaaa": [],
+    "cname": [
+      "31e0757c-a751-4392-92d8-fd960ee67d27.unbouncepages.com"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "img.allin.overcome.com.br",
+    "a": [
+      "177.153.231.26",
+      "177.153.231.25"
+    ],
+    "aaaa": [],
+    "cname": [
+      "img.auinmeio.com.br"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "autodiscover.overcome.com.br",
+    "a": [
+      "186.202.140.206"
+    ],
+    "aaaa": [],
+    "cname": [
+      "autodiscover.email.locaweb.com.br"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "e.allin.overcome.com.br",
+    "a": [
+      "186.202.41.26"
+    ],
+    "aaaa": [],
+    "cname": [
+      "clique.auinmeio.com.br"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "mail.overcome.com.br",
+    "a": [
+      "191.252.112.195"
+    ],
+    "aaaa": [],
+    "cname": [
+      "pop.overcome.com.br",
+      "mail.ita.locamail.com.br"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "www.overcome.com.br",
+    "a": [
+      "23.227.38.74"
+    ],
+    "aaaa": [
+      "2620:127:f00f:e::"
+    ],
+    "cname": [
+      "shops.myshopify.com"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "webmail.overcome.com.br",
+    "a": [
+      "186.202.140.220",
+      "186.202.140.244",
+      "186.202.140.235"
+    ],
+    "aaaa": [],
+    "cname": [
+      "webmail.ita.locamail.com.br"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "pm03-1.77577.allin.overcome.com.br",
+    "a": [
+      "179.109.227.97"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ftp.overcome.com.br",
+    "a": [
+      "23.227.38.65"
+    ],
+    "aaaa": [],
+    "cname": [
+      "overcome.com.br"
+    ],
+    "mx": [
+      "mx.b.locaweb.com.br",
+      "mx.a.locaweb.com.br",
+      "mx.core.locaweb.com.br",
+      "mx.jk.locaweb.com.br"
+    ],
+    "ns": [
+      "ns2.locaweb.com.br",
+      "ns1.locaweb.com.br",
+      "ns3.locaweb.com.br"
+    ]
+  },
+  {
+    "host": "webdisk.overcome.com.br",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "cpanel.overcome.com.br",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "pm04-1.allin.overcome.com.br",
+    "a": [
+      "179.109.247.15"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "pm03-1.7777.allin.overcome.com.br",
+    "a": [
+      "179.109.228.143"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  }
+]

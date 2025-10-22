@@ -1,0 +1,2406 @@
+[
+  {
+    "host": "api.unified-1.api.openai.com",
+    "a": [
+      "20.225.171.111"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-4.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-44.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-5.api.openai.com",
+    "a": [
+      "13.77.111.4"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-64.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-36.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-58.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "admin.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-60.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-22.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chatgptapi.unified-4.api.openai.com",
+    "a": [
+      "52.184.227.203"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-17.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chat-onramp.unified-4.api.openai.com",
+    "a": [
+      "52.184.227.203"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-51.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-13.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-55.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chat-onramp.unified-6.api.openai.com",
+    "a": [
+      "52.160.91.90"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-46.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "eu.api.openai.com",
+    "a": [
+      "172.66.0.243",
+      "162.159.140.245"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-56.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-47.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-6.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chatgptapi.unified-5.api.openai.com",
+    "a": [
+      "13.77.111.4"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-15.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "event.openai.com",
+    "a": [
+      "151.101.2.133",
+      "151.101.194.133",
+      "151.101.66.133",
+      "151.101.130.133"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chat-onramp.unified-5.api.openai.com",
+    "a": [
+      "13.77.111.4"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-59.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "client-events.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-61.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-48.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-1.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-20.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-31.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-16.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-45.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-2.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-69.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-6.api.openai.com",
+    "a": [
+      "52.160.91.90"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-39.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chatgptapi.unified-6.api.openai.com",
+    "a": [
+      "52.160.91.90"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-107.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-11.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-68.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-21.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-52.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-24.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chatgptapi.unified-9.api.openai.com",
+    "a": [
+      "13.65.251.159"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-65.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-8.api.openai.com",
+    "a": [
+      "13.65.251.205"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-63.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-18.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-0.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "enterprise.unified-1.api.openai.com",
+    "a": [
+      "20.225.171.111"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-53.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-42.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-41.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chat-onramp.unified-8.api.openai.com",
+    "a": [
+      "13.65.251.205"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-54.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-27.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "admin.unified-4.api.openai.com",
+    "a": [
+      "52.184.227.203"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-66.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-11.api.openai.com",
+    "a": [
+      "135.224.2.247"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-32.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-4.api.openai.com",
+    "a": [
+      "52.184.227.203"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-50.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-9.api.openai.com",
+    "a": [
+      "13.65.251.159"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "assets.images.openai.com",
+    "a": [
+      "104.18.35.200",
+      "172.64.152.56"
+    ],
+    "aaaa": [
+      "2a06:98c1:310c::6812:23c8",
+      "2a06:98c1:3106::ac40:9838"
+    ],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-3.api.openai.com",
+    "a": [
+      "52.138.139.92"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-62.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-25.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-5.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-40.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-43.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chat-onramp.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chatgptapi.unified-8.api.openai.com",
+    "a": [
+      "13.65.251.205"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-0.api.openai.com",
+    "a": [
+      "4.150.21.186"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-67.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-29.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chatgptapi.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-19.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-57.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-23.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-3.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-30.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-49.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "events.openai.com",
+    "a": [
+      "3.248.123.157",
+      "52.213.47.89"
+    ],
+    "aaaa": [
+      "2a05:d018:111a:2c00:9e32:164c:374:beb0",
+      "2a05:d018:111a:2c01:c69e:f3f5:a8df:1c17"
+    ],
+    "cname": [
+      "elb-3347-events-openai-com.swoogo.com",
+      "customdomain.prod.swoogo.net"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.unified-2.api.openai.com",
+    "a": [
+      "4.151.241.6"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "chat-onramp.unified-9.api.openai.com",
+    "a": [
+      "13.65.251.159"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-35.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-37.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-26.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-12.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-28.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "auth.enterpriseservices.openai.com",
+    "a": [
+      "18.67.145.93",
+      "18.67.145.54",
+      "18.67.145.24",
+      "18.67.145.44"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "devday.openai.com",
+    "a": [
+      "52.213.47.89",
+      "3.248.123.157"
+    ],
+    "aaaa": [
+      "2a05:d018:111a:2c01:c69e:f3f5:a8df:1c17",
+      "2a05:d018:111a:2c00:9e32:164c:374:beb0"
+    ],
+    "cname": [
+      "elb-3347-devday-openai-com.swoogo.com",
+      "customdomain.prod.swoogo.net"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-33.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "api.openai.com",
+    "a": [
+      "172.66.0.243",
+      "162.159.140.245"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "ns4-01.azure-dns.info",
+      "ns2-01.azure-dns.net",
+      "ns1-01.azure-dns.com",
+      "ns3-01.azure-dns.org"
+    ]
+  },
+  {
+    "host": "apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "ns1-04.azure-dns.com",
+      "ns2-04.azure-dns.net",
+      "ns3-04.azure-dns.org",
+      "ns4-04.azure-dns.info"
+    ]
+  },
+  {
+    "host": "gateway.unified-7.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-77.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gdrive-plugin.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-75.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-78.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "glow.openai.com",
+    "a": [
+      "40.119.37.73"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-74.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "enterpriseservices.openai.com",
+    "a": [
+      "18.155.21.121",
+      "18.155.21.17",
+      "18.155.21.70",
+      "18.155.21.105"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "ns-547.awsdns-04.net",
+      "ns-1228.awsdns-25.org",
+      "ns-1962.awsdns-53.co.uk",
+      "ns-232.awsdns-29.com"
+    ]
+  },
+  {
+    "host": "gateway.unified-71.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide.api.unified-2.api.openai.com",
+    "a": [
+      "4.151.241.6"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-73.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-88.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-72.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-8.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-79.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-70.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-76.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-rust-api.unified-1.api.openai.com",
+    "a": [
+      "20.225.171.111"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-api.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-92.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-87.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.websocket-3.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-94.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-80.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-95.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-86.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-81.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-rust-api.unified-11.api.openai.com",
+    "a": [
+      "135.224.2.247"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-api.unified-0.api.openai.com",
+    "a": [
+      "4.150.21.186"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.websocket-2.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-82.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-20.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-83.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-85.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-rust-api.unified-5.api.openai.com",
+    "a": [
+      "13.77.111.4"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.webhook-0.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-89.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-93.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide.api.unified-8.api.openai.com",
+    "a": [
+      "13.65.251.205"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "home.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "mtls-eu.api.openai.com",
+    "a": [
+      "172.66.0.243",
+      "162.159.140.245"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-api.unified-1.api.openai.com",
+    "a": [
+      "20.225.171.111"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-rust-api.unified-9.api.openai.com",
+    "a": [
+      "13.65.251.159"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-api.unified-5.api.openai.com",
+    "a": [
+      "13.77.111.4"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "onramp.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide.api.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-api.unified-3.api.openai.com",
+    "a": [
+      "52.138.139.92"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-9.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "router.unified-6.api.openai.com",
+    "a": [
+      "52.160.91.90"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.websocket-1.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-rust-api.unified-3.api.openai.com",
+    "a": [
+      "52.138.139.92"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "musenet.openai.com",
+    "a": [
+      "40.119.57.242"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-rust-api.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.websocket-0.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "snc-onramp.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "snc.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "jidori.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "search-onramp.apps.openai.com",
+    "a": [
+      "20.118.112.99"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-84.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "scim.openai.com",
+    "a": [
+      "20.245.73.109"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "search-onramp.unified-8.api.openai.com",
+    "a": [
+      "13.65.251.205"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-api.unified-6.api.openai.com",
+    "a": [
+      "52.160.91.90"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "sombra-external.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "router.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-11.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "search-onramp.unified-9.api.openai.com",
+    "a": [
+      "13.65.251.159"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-25.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "mtls.api.openai.com",
+    "a": [
+      "172.66.0.243",
+      "162.159.140.245"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-22.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-12.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-19.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-16.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-3.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-21.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "musenet-pg.openai.com",
+    "a": [
+      "40.119.57.198"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "prod-primary-aks-scentralus-api-b.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "gateway.unified-90.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-2.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-13.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-24.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "ide-rust-api.unified-2.api.openai.com",
+    "a": [
+      "4.151.241.6"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-17.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-28.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-23.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-26.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-18.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-1.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-0.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-15.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-29.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-27.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-30.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-31.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-32.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-37.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-39.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "images.openai.com",
+    "a": [
+      "172.64.152.56",
+      "104.18.35.200"
+    ],
+    "aaaa": [
+      "2a06:98c1:310c::6812:23c8",
+      "2a06:98c1:3106::ac40:9838"
+    ],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "clay.ns.cloudflare.com",
+      "daniella.ns.cloudflare.com"
+    ]
+  },
+  {
+    "host": "unified-50.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-35.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-43.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-47.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-40.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-36.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-42.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "transceiver.api.openai.com",
+    "a": [
+      "104.18.38.227",
+      "172.64.149.29"
+    ],
+    "aaaa": [
+      "2a06:98c1:310c::6812:26e3",
+      "2606:4700:4403::ac40:951d"
+    ],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "west.ns.cloudflare.com",
+      "linda.ns.cloudflare.com"
+    ]
+  },
+  {
+    "host": "unified-56.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-55.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-58.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-5.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-53.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-48.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "sm.openai.com",
+    "a": [
+      "104.18.38.33",
+      "172.64.149.223"
+    ],
+    "aaaa": [
+      "2606:4700:4406::6812:2621",
+      "2a06:98c1:3105::ac40:95df"
+    ],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "kim.ns.cloudflare.com",
+      "salvador.ns.cloudflare.com"
+    ]
+  },
+  {
+    "host": "unified-49.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "juno.openai.com",
+    "a": [
+      "104.18.40.123",
+      "172.64.147.133"
+    ],
+    "aaaa": [
+      "2a06:98c1:3101::ac40:9385",
+      "2a06:98c1:3100::6812:287b"
+    ],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "carrera.ns.cloudflare.com",
+      "rex.ns.cloudflare.com"
+    ]
+  },
+  {
+    "host": "unified-46.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-41.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-51.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-4.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-45.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-62.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-44.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-76.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-87.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "share.openai.com",
+    "a": [
+      "172.64.153.224",
+      "104.18.34.32"
+    ],
+    "aaaa": [
+      "2606:4700:4409::6812:2220",
+      "2a06:98c1:3100::ac40:99e0"
+    ],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "fiona.ns.cloudflare.com",
+      "rajeev.ns.cloudflare.com"
+    ]
+  },
+  {
+    "host": "unified-59.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-67.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-73.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-60.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-63.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-75.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-70.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-80.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-7.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-54.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-52.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-71.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-78.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-61.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-74.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-6.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-57.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-68.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-86.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-66.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-92.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-65.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-64.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-93.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-77.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "wildcard.unified-0.api.openai.com",
+    "a": [
+      "4.150.21.186"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-69.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-72.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-83.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-88.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-81.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-85.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "wildcard.unified-7.api.openai.com",
+    "a": [
+      "52.158.252.75"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-82.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "webhook-0.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-8.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-89.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-95.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-84.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "wildcard.unified-5.api.openai.com",
+    "a": [
+      "13.77.111.4"
+    ],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-9.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-90.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-79.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-94.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-33.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "unified-34.api.openai.com",
+    "a": [],
+    "aaaa": [],
+    "cname": [],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "videos.openai.com",
+    "a": [
+      "172.64.148.99",
+      "104.18.39.157"
+    ],
+    "aaaa": [
+      "2a06:98c1:3102::ac40:9463",
+      "2606:4700:4401::6812:279d"
+    ],
+    "cname": [],
+    "mx": [],
+    "ns": [
+      "justin.ns.cloudflare.com",
+      "daniella.ns.cloudflare.com"
+    ]
+  }
+]

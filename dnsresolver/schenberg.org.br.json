@@ -1,0 +1,90 @@
+[
+  {
+    "host": "ensino.schenberg.org.br",
+    "a": [
+      "77.37.42.26",
+      "89.116.213.212"
+    ],
+    "aaaa": [
+      "2a02:4780:2f:d126:43c5:807f:8d8c:c38a",
+      "2a02:4780:17:a7d8:4e:f3c0:531d:ed96"
+    ],
+    "cname": [],
+    "mx": [
+      "mx2.hostinger.com.br",
+      "mx1.hostinger.com.br"
+    ],
+    "ns": [
+      "ns2.dns-parking.com",
+      "ns1.dns-parking.com"
+    ]
+  },
+  {
+    "host": "cursos.schenberg.org.br",
+    "a": [
+      "84.32.84.203",
+      "84.32.84.31"
+    ],
+    "aaaa": [
+      "2a02:4780:17:12e6:71d5:43c1:2514:fbcc",
+      "2a02:4780:2e:a4be:a598:47af:da14:723a"
+    ],
+    "cname": [],
+    "mx": [
+      "mx1.hostinger.com.br",
+      "mx2.hostinger.com.br"
+    ],
+    "ns": [
+      "ns1.dns-parking.com",
+      "ns2.dns-parking.com"
+    ]
+  },
+  {
+    "host": "www.ensino.schenberg.org.br",
+    "a": [
+      "89.116.213.67",
+      "77.37.42.208"
+    ],
+    "aaaa": [
+      "2a02:4780:18:22ab:c1f7:1440:dea0:2277",
+      "2a02:4780:17:eb6f:2183:cc69:792:8b96"
+    ],
+    "cname": [
+      "www.ensino.schenberg.org.br.cdn.hstgr.net"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "www.cursos.schenberg.org.br",
+    "a": [
+      "89.116.213.9",
+      "147.79.105.76"
+    ],
+    "aaaa": [
+      "2a02:4780:2e:124b:2552:6bbb:7be:4ee2",
+      "2a02:4780:18:6f03:adf8:b57:ab52:e6b1"
+    ],
+    "cname": [
+      "www.cursos.schenberg.org.br.cdn.hstgr.net"
+    ],
+    "mx": [],
+    "ns": []
+  },
+  {
+    "host": "www.schenberg.org.br",
+    "a": [
+      "147.79.105.172",
+      "91.108.127.44"
+    ],
+    "aaaa": [
+      "2a02:4780:17:1d60:6bb3:fc98:37a9:74a",
+      "2a02:4780:2f:c05d:fe1e:b2f7:b1d0:b25f"
+    ],
+    "cname": [
+      "www.schenberg.org.br.cdn.hstgr.net"
+    ],
+    "mx": [],
+    "ns": []
+  }
+]
